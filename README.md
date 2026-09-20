@@ -8,6 +8,6 @@ A minimal Node.js server that serves `public/index.html` at the root URL.
 npm start
 ```
 
-Then open <http://localhost:3000> in a browser.
+then open <http://localhost:3000> in a browser.
 
 Set a different port with `PORT=4000 npm start`.
