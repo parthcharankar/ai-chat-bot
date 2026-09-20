@@ -1,4 +1,4 @@
-# Node.js HTML Server
+# Node.js HTML server
 
 A minimal Node.js server that serves `public/index.html` at the root URL.
 
